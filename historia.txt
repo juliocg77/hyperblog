@@ -1,1 +1,2 @@
-esto es una prueba del curso de git y github, hoy es 23 de febrero de 2023.
+esto es una prueba del curso de git y github, hoy es 23 de febrero de 2023...
+en camara parece alto pero no es alto.
